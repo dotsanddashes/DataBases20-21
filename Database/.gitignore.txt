@@ -1,5 +1,0 @@
-conf.py
-.idea/
-.ipynb_chekpoints/
-__pycache__/
-venv/
